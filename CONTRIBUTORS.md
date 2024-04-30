@@ -3,3 +3,4 @@
 ## ✨Session taken by: Deptartment of Data Science✨
 
 ## Contributors:
+Pratham Singla
