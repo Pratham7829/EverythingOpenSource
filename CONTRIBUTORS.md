@@ -1,5 +1,5 @@
 # Everything Open Source:
 
-## ✨Session taken by : Data Science✨
+## ✨Session taken by: Deptartment of Data Science✨
 
 ## Contributors:
